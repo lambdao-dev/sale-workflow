@@ -1,1 +1,2 @@
 odoo_test_helper
+git+https://github.com/lambdao-dev/server-ux@17.0-fxsbsttmx-len#subdirectory=base_substate  # to remove once merged
